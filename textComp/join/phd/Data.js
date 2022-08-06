@@ -6,11 +6,11 @@ const Data = () => {
             <div className={styles.main}>
                 <div>
                     <p>
-                        ScAI welcomes applications from strongly motivated
+                        Hello. ScAI welcomes applications from strongly motivated
                         students who want to pursue their Ph.D. in the areas of
                         both core AI and applied AI. Please check our research
                         and faculty pages for understanding various ongoing
-                        research at ScAI.
+                        research at ScAI. 
                     </p>
                     <p>
                         All engineering students irrespective of their
