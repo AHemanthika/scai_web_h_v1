@@ -5,7 +5,7 @@ const Data = () => {
         <>
             <div className={styles.main}>
                 <p>
-                    ScAI invites postdocs applications in all areas of
+                    Yardi ScAI invites postdocs applications in all areas of
                     artificial intelligence, where AI is interpreted broadly to
                     include all of traditional AI, machine learning and data
                     science. Subareas of interest include (but are not limited
@@ -53,12 +53,12 @@ const Data = () => {
                     </li>
                 </ul>
                 <p>
-                    ScAI strongly encourages applicants with demonstrated
+                    Yardi ScAI strongly encourages applicants with demonstrated
                     track-record of working at the intersection of an
                     application area and the AI fields.
                 </p>
                 <p>
-                    ScAI post-doctoral fellows may have done a PhD in any
+                    Yardi ScAI post-doctoral fellows may have done a PhD in any
                     relevant area such as computer science, electrical
                     engineering or mathematics, or also any application area
                     such as civil engineering, mechanical engineering,
@@ -66,6 +66,15 @@ const Data = () => {
                     PhD, the candidate must have performed high quality research
                     in their area, and must have decent exposure to AI
                     techniques.
+                </p>
+                <p>
+                    <a
+                        href="https://home.iitd.ac.in/jobs-iitd/index.php"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Link for Post
+                    </a>
                 </p>
             </div>
         </>
