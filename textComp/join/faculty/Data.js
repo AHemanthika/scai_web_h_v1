@@ -4,7 +4,7 @@ const Data = () => {
     return (
         <>
             <div className={styles.main}>
-                ScAI invites faculty applications in all areas of artificial
+                Yardi ScAI invites faculty applications in all areas of artificial
                 intelligence, where AI is interpreted broadly to include all of
                 traditional AI, machine learning and data science. Subareas of
                 interest include (but are not limited to):
@@ -54,14 +54,14 @@ const Data = () => {
                         applications of AI).
                     </li>
                 </ul>
-                ScAI strongly encourages applicants with demonstrated
+                Yardi ScAI strongly encourages applicants with demonstrated
                 track-record of working at the intersection of an application
                 area and the AI fields.{" "}
                 <p>
-                    If you are interested in applying to ScAI but have specific
+                    If you are interested in applying to Yardi ScAI but have specific
                     questions about life at IITD, work-life balance in India,
-                    opportunities for growth/success at ScAI, please feel free
-                    to reach out the head of ScAI at{" "}
+                    opportunities for growth/success at Yardi ScAI, please feel free
+                    to reach out the head of Yardi ScAI at{" "}
                     <a href="mailto:hodscai@admin.iitd.ac.in">
                         hodscai[AT]admin.iitd.ac.in
                     </a>
