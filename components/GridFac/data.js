@@ -939,6 +939,22 @@ const data = [
         page: "https://care.iitd.ac.in/People/Faculty/Prabhubabu.html",
         image: "/faculty/prabhu_bahu.jpg",
     },
+    {
+        name: "Rohit Vaish",
+        position: "Associate Faculty",
+        // position: "Assistant Professor",
+        research_areas: [
+            "Computational social choice",
+        ],
+        address: [
+            "Room 415, Department of Computer Science and Engineering, Bharti Building,",
+            "IIT Delhi, Hauz Khas, New Delhi- 110016",
+        ],
+        email: "rvaish@iitd.ac.in",
+        phone: "+91 (11) 2659 1295",
+        page: "https://rohitvaish.in/",
+        image: "/faculty/rohit_vaish.jpg",
+    },
 ];
 
 const mapdata = (data) => {
