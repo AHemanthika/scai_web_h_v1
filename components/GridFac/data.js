@@ -507,7 +507,7 @@ const data = [
     },
     {
         name: "Anurag Rathore",
-        position: "Associate Faculty",
+        position: "Joint Faculty",
         // position: "Associate Professor",
         research_areas: [
             "Continuous Processing",
