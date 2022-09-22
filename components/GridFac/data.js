@@ -879,6 +879,26 @@ const data = [
         page: "https://www.gghatak.com/",
         image: "/faculty/gourab.jpg",
     },
+    {
+        name: "Tapan K Gandhi",
+        position: "Associate Faculty",
+        // position: "Associate Professor",
+        research_areas: [
+            "Computational Neuroscience",
+            "Neuro-Inspired Engineering",
+            "Biomedical Signal and Image Processing",
+            "Machine Learning",
+            "Assistive Technology"
+        ],
+        address: [
+            "Room no: Block II/413(A),",
+            "IIIT Delhi, Okhla Industrial Estate, New Delhi- 110020",
+        ],
+        email: "tgandhi@iitd.ac.in",
+        phone: "+91 (011) 2659-1153",
+        page: "https://tapankgandhi.com/",
+        image: "/faculty/tapan.jpg",
+    },
 ];
 
 const mapdata = (data) => {
