@@ -899,6 +899,24 @@ const data = [
         page: "https://tapankgandhi.com/",
         image: "/faculty/tapan.jpg",
     },
+    {
+        name: "Sandeep Sukumaran",
+        position: "Associate Faculty",
+        // position: "Assistant Professor",
+        research_areas: [
+            "Climate modelling", 
+            "Indian summer monsoon", 
+            "climate change",
+        ],
+        address: [
+            "Block VI, Room No. 312, Centre for Atmospheric Sciences,",
+            "IIT Delhi, Hauz Khas, New Delhi- 110016",
+        ],
+        email: "sandeep.sukumaran@cas.iitd.ac.in",
+        phone: "(91)-11-2659-1387",
+        page: "https://web.iitd.ac.in/~san81/",
+        image: "/faculty/sandeep_sukumaran.jpg",
+    },
 ];
 
 const mapdata = (data) => {
