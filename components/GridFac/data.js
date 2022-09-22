@@ -917,6 +917,28 @@ const data = [
         page: "https://web.iitd.ac.in/~san81/",
         image: "/faculty/sandeep_sukumaran.jpg",
     },
+    {
+        name: "Prabhu Bahu",
+        position: "Associate Faculty",
+        // position: "Assistant Professor",
+        research_areas: [
+            "Signal processing and communications",
+            "Machine learning",
+            "Nonlinear optimization",
+            "Sparse parameter estimation aka compressed sensing",
+            "Bioinformatics",
+            "Big Data analysis",
+            "Financial data modeling",
+        ],
+        address: [
+            "Centre for Applied Research in Electronics,",
+            "IIT Delhi, Hauz Khas, New Delhi- 110016",
+        ],
+        email: "prabhubabu@care.iitd.ernet.in",
+        phone: "+91-11-26597324",
+        page: "https://care.iitd.ac.in/People/Faculty/Prabhubabu.html",
+        image: "/faculty/prabhu_bahu.jpg",
+    },
 ];
 
 const mapdata = (data) => {
